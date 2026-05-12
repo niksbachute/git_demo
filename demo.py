@@ -5,3 +5,6 @@ print("Rebase demo test 1")
 
 print("third commit")
 print("something extra with third commit")
+
+print("third commit")
+print("something extra with third commit")
